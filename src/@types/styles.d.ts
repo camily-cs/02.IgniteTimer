@@ -1,4 +1,4 @@
-/* INTEGRANDO TOTALMENTE O STYLED-COMPONENTS COM O TYPESCRIPT
+/* SOBRESCREVENDO TIPAGEM DO STYLED-COMPONENTS E INTEGRANDO ELE TOTALMENTE AO TYPESCRIPT
 
 Nesse arquivos teremos apenas códigos de definição(d) typescript, ou seja, apenas código typescript 
 Aqui estarão as DEFINIÇÕES DE TIPOS
