@@ -1,0 +1,4 @@
+/* configurando o eslint com o pacote da rocket*/
+{
+    "extends": "@rocketseat/eslint-config/react"
+}
